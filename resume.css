@@ -1,0 +1,25 @@
+.parent{
+    display: grid;
+    grid-template-columns : 30% 70%
+}
+.col1{
+    background-color: rgb(8, 92, 92);
+    color: rgba(8, 84, 105, 0.653);
+}
+.col2{
+    background-color: rgb(199,198,117);
+    color : rgb(19,19,16);
+}
+
+
+div{
+    margin : 1px;
+}
+.education{
+    display: grid;
+    grid-template-columns:60% 20% 20%
+}
+h3,h5{
+    background-color: bisque;
+    color: black;
+}
